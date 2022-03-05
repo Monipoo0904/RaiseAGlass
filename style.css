@@ -25,6 +25,9 @@
     background-color: #1B264F;
     color: white;
   }
-
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 
   /* color pallete: https://coolors.co/e8e9f3-cecece-a6a6a8-272635-b1e5f2 */
